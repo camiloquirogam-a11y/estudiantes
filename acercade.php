@@ -1,11 +1,12 @@
 <?php
 
-
 /*
-echo "Hola desde PHP 😎 ";
-
-echo "Hola desde otro texto";
+comentario
+en
+bloque
 */
+
+// comentario en línea
     
 $miVariable = "soy variable 1";
 
