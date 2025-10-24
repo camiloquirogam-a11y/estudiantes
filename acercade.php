@@ -10,7 +10,9 @@ bloque
     
 $miVariable = "soy variable 1";
 
-$mivariable = "soy variable 2";
+$mivariable2 = "soy variable 2";
 
 echo $miVariable;
+
+echo "Variable 2 contiene: " . $mivariable2;
 ?>
